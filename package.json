@@ -36,7 +36,7 @@
     "google-libphonenumber": "^3.2.2",
     "install": "^0.12.2",
     "jquery": "^3.3.1",
-    "jspdf": "^1.4.1",
+    "jspdf": "^2.3.1",
     "ngx-cookie-service": "^1.0.10",
     "ngx-spinner": "^7.0.0",
     "ngx-treeview": "^6.0.1",
